@@ -1,4 +1,4 @@
-FROM  msfeghouli/majdsnidb
+FROM  majdsnidb
 
 MAINTAINER Alexander Kukushkin <alexander.kukushkin@zalando.de>
 
