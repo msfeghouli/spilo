@@ -1,4 +1,4 @@
-FROM spilo:squashed
+FROM  msfeghouli/majdsnidb
 
 MAINTAINER Alexander Kukushkin <alexander.kukushkin@zalando.de>
 
